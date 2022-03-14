@@ -1,5 +1,2 @@
-<figure>
-    <img src="my_meme.png"
-         alt="Auckland, New Zealand">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
-</figure>
+<img src="my_meme.png" width="500" height="500">
+
