@@ -1,4 +1,4 @@
-```{r
+```r
 library(magick)
 
 pic1 <- image_read("https://cdn2.vectorstock.com/i/1000x1000/90/41/cartoon-little-girl-studying-vector-22369041.jpg") %>%
@@ -25,19 +25,21 @@ meme <- c(first_row, second_row) %>%
   image_append(stack = TRUE)
 
 image_write(meme, "my_meme.png")
-
 ```
 
-<center> <img src="my_meme.png" width="500" height="500"> </center>
+<img src="my_meme.png" width="500" height="500"> 
 
 
-## This meme was inspired by the university’s current learning environment in response to the uncertainty that covid 19 outbreaks come with. It is of course an adaptation of other memes on the web that are about how sometimes the reality is different from the expectations. 
+### This meme was inspired by the university’s current learning environment in response to the uncertainty that covid 19 outbreaks come with. It is of course an adaptation of other memes on the web that are about how sometimes *reality* is different from *expectations*. 
 
-### Here are two relatable expectation vs reality: 
+#### Here are two relatable *expectation vs reality* memes: 
 
 1. 
 ![Meme1](https://www.memesmonkey.com/images/memesmonkey/5d/5d941e63fa6d0b3afc9ab52411158248.jpeg)
 
 
 2. 
-![Meme2](https://theawesomedaily.com/wp-content/uploads/2014/01/tumblr_moucu72gtN1rstqo4o1_500-1-500x600.png)
+![Meme2](https://i.pinimg.com/originals/e4/38/cb/e438cbf2ecf7b9cd9f2beedf81afc37d.jpg)
+
+
+### On a slighty more serious note, here are a few websites with some tips on how to stay focused with studying despite the difficulty of the online learning environment: [**Host**](https://host-students.com/study-tips-for-students/), [**freedom**](https://freedom.to/blog/how-to-stay-focused-studying/) and [**wikiHow**](https://www.wikihow.com/Focus-on-Studying).
