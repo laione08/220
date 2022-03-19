@@ -30,7 +30,7 @@ image_write(meme, "my_meme.png")
 <img src="my_meme.png" width="500" height="500"> 
 
 
-### This meme was inspired by the university’s current learning environment in response to the uncertainty that covid 19 outbreaks come with. It is of course an adaptation of other memes on the web that are about how sometimes *reality* is different from *expectations*. 
+### This meme was inspired by the university’s current learning environment in response to the uncertainty that covid 19 outbreaks come with. It is of course *not* an actual depiction of what happens in reality during zoom lectures. It is an adaptation of other expectations vs reality memes on the web that are sometimes intended to be humourous. 
 
 #### Here are two relatable *expectation vs reality* memes: 
 
